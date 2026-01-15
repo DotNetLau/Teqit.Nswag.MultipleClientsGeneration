@@ -1,4 +1,4 @@
-# Teqit.Nswag.MultipeClientsGeneration
+# Teqit.Nswag.MultipleClientsGeneration
 
 An example project to showcase how to generate separate (multiple) clients per controller.
 
