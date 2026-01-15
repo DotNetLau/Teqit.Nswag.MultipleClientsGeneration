@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PbnDWAsoCuo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laure\\RiderProjects\\Teqit.Api\\Teqit.Client\\Teqit.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laure\\.nuget\\packages\\microsoft.extensions.apidescription.client\\8.0.14\\microsoft.extensions.apidescription.client.8.0.14.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\nswag.apidescription.client\\14.4.0\\nswag.apidescription.client.14.4.0.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\nswag.msbuild\\14.4.0\\nswag.msbuild.14.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\bin\Debug\net10.0\Teqit.Client.exe
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\bin\Debug\net10.0\Teqit.Client.deps.json
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\bin\Debug\net10.0\Teqit.Client.runtimeconfig.json
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\bin\Debug\net10.0\Teqit.Client.dll
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\bin\Debug\net10.0\Teqit.Client.pdb
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\obj\Debug\net10.0\Teqit.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\obj\Debug\net10.0\Teqit.Client.AssemblyInfoInputs.cache
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\obj\Debug\net10.0\Teqit.Client.AssemblyInfo.cs
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\obj\Debug\net10.0\Teqit.Client.csproj.CoreCompileInputs.cache
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\obj\Debug\net10.0\Teqit.Client.dll
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\obj\Debug\net10.0\refint\Teqit.Client.dll
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\obj\Debug\net10.0\Teqit.Client.pdb
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\obj\Debug\net10.0\Teqit.Client.genruntimeconfig.cache
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\obj\Debug\net10.0\ref\Teqit.Client.dll
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\obj\Debug\net10.0\Teqit.Client.csproj.AssemblyReference.cache
+C:\Users\laure\RiderProjects\Teqit.Api\Teqit.Client\obj\Debug\net10.0\Teqit.Cl.E0CB7305.Up2Date

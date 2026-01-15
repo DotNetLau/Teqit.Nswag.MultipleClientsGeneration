@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Teqit.Api/Teqit.Api.csproj" />
+  <Project Path="Teqit.Client/Teqit.Client.csproj" />
+</Solution>
